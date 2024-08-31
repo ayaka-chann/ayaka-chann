@@ -28,10 +28,6 @@
 
 <sub> *“I only wish life could be as leisurely as this a little more often... How greedy of me..” – Ayaka* </sub>
 </div>
-<h3>💬 Discord</h3>
-<a href="https://discord.com/users/1108011192645058571"  align="left">
-    <img src="https://lanyard.cnrad.dev/api/1108011192645058571?theme=light&bg=F4BFC7&borderRadius=15px&animated=true&idleMessage=In%20the%20sky%20there%20is%20an%20angel%20in%20somewhere%20(.%20%E2%9D%9B%20%E1%B4%97%20%E2%9D%9B.)">
-  </a>
 
 <h3>📈 My Stats</h3>
 <p>

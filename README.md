@@ -4,7 +4,6 @@
 - <img src="https://i.imgur.com/SuSbRGN.png" alt="." width="16" height="16"/> Discord.js Coder.
 - <img src="https://i.imgur.com/a2KhTyR.gif" alt="."  width="16" height="16" /> I am 1x years old.
 - 🌠 I enjoy playing games and listening to music. <img src="https://i.imgur.com/YN1z4ON.png" alt="."/>    
-  ↳ **Some games:** <img src="https://static.wikia.nocookie.net/gensin-impact/images/8/80/Genshin_Impact.png/revision/latest/scale-to-width-down/1000?cb=20240331104358" alt="." width="16" height="16"/> [Genshin Impact](https://genshin.hoyoverse.com/),...
 - Studying <img src="https://i.imgur.com/Xjb867j.png" alt="." width="16" height="16"/> JavaScript, <img src="https://i.imgur.com/eZxBcrA.png" alt="." width="16" height="16"/> [NodeJS](https://nodejs.org/) and <img src="https://i.imgur.com/qgdFuhG.png" alt="." width="16" height="16"/> C++.
 
 - **I'm not a professional developer.**
